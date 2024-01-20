@@ -1,3 +1,4 @@
-print("Hello, Stammbaum!")
-print("was geht ab")
+from stammbaum.models import sim
+
+sim = sim(name="Heinz", gender="Male")
 

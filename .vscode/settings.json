@@ -1,0 +1,5 @@
+{
+    "python.analysis.extraPaths": [
+        "./Stammbaum/src/stammbaum/statuses"
+    ]
+}
